@@ -1,0 +1,26 @@
+{
+  "name": "17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean": "*",
+    "gulp-concat": "*",
+    "gulp-minify": "*",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "*",
+    "gulp-rev":"*",
+    "gulp-rev-collector":"*",
+    "gulp-minify-html":"*",
+    "gulp-rename":"*",
+    "gulp-connect":"*",
+    "gulp-respond":"*"
+  },
+  "author": "",
+  "license": "ISC"
+}
